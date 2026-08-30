@@ -14,12 +14,12 @@ The firmware is © Coinkite Inc., distributed under MIT + the Commons Clause (wh
 permits copying and redistribution, and forbids *selling*). This repository redistributes
 the binaries unmodified for archival; it does not sell them.
 
-## Contents (124 files verified · manifest lists 129)
+## Contents (128 files verified · manifest lists 133)
 
 | line | dir | count | versions |
 |---|---|---|---|
-| Mk3/4/5 stable | [`mk/`](mk) | 63 | v3.0.6 – v5.6.0 |
-| Q1 stable | [`q1/`](q1) | 44 | v0.0.3Q – v1.5.0Q |
+| Mk3/4/5 stable | [`mk/`](mk) | 65 | v3.0.6 – v5.6.1 |
+| Q1 stable | [`q1/`](q1) | 46 | v0.0.3Q – v1.5.1Q |
 | Mk edge (experimental, `X`) | [`edge-mk/`](edge-mk) | 11 | v6.0.0X – v6.6.0X |
 | Q1 edge (experimental, `QX`) | [`edge-q1/`](edge-q1) | 6 | v6.3.3QX – v6.6.0QX |
 

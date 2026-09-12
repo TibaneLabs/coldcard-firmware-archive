@@ -14,14 +14,14 @@ The firmware is © Coinkite Inc., distributed under MIT + the Commons Clause (wh
 permits copying and redistribution, and forbids *selling*). This repository redistributes
 the binaries unmodified for archival; it does not sell them.
 
-## Contents (128 files verified · manifest lists 133)
+## Contents (134 files verified · manifest lists 139)
 
 | line | dir | count | versions |
 |---|---|---|---|
-| Mk3/4/5 stable | [`mk/`](mk) | 65 | v3.0.6 – v5.6.1 |
-| Q1 stable | [`q1/`](q1) | 46 | v0.0.3Q – v1.5.1Q |
-| Mk edge (experimental, `X`) | [`edge-mk/`](edge-mk) | 11 | v6.0.0X – v6.6.0X |
-| Q1 edge (experimental, `QX`) | [`edge-q1/`](edge-q1) | 6 | v6.3.3QX – v6.6.0QX |
+| Mk3/4/5 stable | [`mk/`](mk) | 67 | v3.0.6 – v5.6.2 |
+| Q1 stable | [`q1/`](q1) | 48 | v0.0.3Q – v1.5.2Q |
+| Mk edge (experimental, `X`) | [`edge-mk/`](edge-mk) | 12 | v6.0.0X – v6.6.1X |
+| Q1 edge (experimental, `QX`) | [`edge-q1/`](edge-q1) | 7 | v6.3.3QX – v6.6.1QX |
 
 Filenames are Coinkite's originals: `<UTC-build-timestamp>-<version>-<board>-coldcard[-factory].dfu`.
 `-factory` variants also program the (unreplaceable) bootloader; the plain variant is the
